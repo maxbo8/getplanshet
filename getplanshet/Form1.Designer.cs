@@ -121,7 +121,7 @@ namespace getplanshet
             this.MaximumSize = new System.Drawing.Size(549, 338);
             this.MinimumSize = new System.Drawing.Size(549, 338);
             this.Name = "getplanshet";
-            this.Text = "Form1";
+            this.Text = "getplanshet";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
